@@ -1,0 +1,50 @@
+[{
+  "id": "6255146",
+  "code": "AF",
+  "name": "Africa",
+  "asciiname": "Africa",
+  "latitude": "7.1881",
+  "longitude": "21.09375"
+}, {
+  "id": "6255147",
+  "code": "AS",
+  "name": "Asia",
+  "asciiname": "Asia",
+  "latitude": "29.84064",
+  "longitude": "89.29688"
+}, {
+  "id": "6255148",
+  "code": "EU",
+  "name": "Europe",
+  "asciiname": "Europe",
+  "latitude": "48.69096",
+  "longitude": "9.14062"
+}, {
+  "id": "6255149",
+  "code": "NA",
+  "name": "North America",
+  "asciiname": "North America",
+  "latitude": "46.07323",
+  "longitude": "-100.54688"
+}, {
+  "id": "6255151",
+  "code": "OC",
+  "name": "Oceanea",
+  "asciiname": "Oceanea",
+  "latitude": "-18.31281",
+  "longitude": "138.51562"
+}, {
+  "id": "6255150",
+  "code": "SA",
+  "name": "South America",
+  "asciiname": "South America",
+  "latitude": "-14.60485",
+  "longitude": "-57.65625"
+}, {
+  "id": "6255152",
+  "code": "AN",
+  "name": "Antarctica",
+  "asciiname": "Antarctica",
+  "latitude": "-78.15856",
+  "longitude": "16.40626"
+}]
